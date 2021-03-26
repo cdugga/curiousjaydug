@@ -12,7 +12,7 @@ const Header = () => (
       <h1>
         <strong>Curiousjaydee</strong> 
         <br />
-        Pretend photographer
+        Pretend Photographer
         <br/>
         Pilot
         {/* <br />
