@@ -62,7 +62,7 @@ const HomeIndex = () => {
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
-              {/* <form method="post" action="#">
+              <form method="post" data-netlify="true" name ="contact">
                 <div className="row uniform 50%">
                   <div className="6u 12u$(xsmall)">
                     <input
@@ -94,7 +94,7 @@ const HomeIndex = () => {
                     <input type="submit" value="Send Message" />
                   </li>
                 </ul>
-              </form> */}
+              </form>
             </div>
             <div className="4u 12u$(small)">
               <ul className="labeled-icons">
